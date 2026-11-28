@@ -11,6 +11,6 @@ I build and run full-stack web apps, and I grow the communities around them.
 
 **Stack:** JavaScript and TypeScript, Node.js, Express, React, MySQL and PostgreSQL, Python (pandas, Streamlit), Playwright, Docker, GitHub Actions, Cloudflare.
 
-**Before code:** 4+ years growing crypto communities in Africa (WEEX Africa, Gate.io), so I build with users and launches in mind.
+**Before code:** 4+ years growing crypto communities in Africa (a global crypto exchange, Gate.io), so I build with users and launches in mind.
 
 📍 Lagos, Nigeria (UTC+1) · [meetoluwaseyi.com](https://www.meetoluwaseyi.com) · [LinkedIn](https://www.linkedin.com/in/oluwaseyi-o-601915b5)
